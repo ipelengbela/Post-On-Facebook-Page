@@ -5,10 +5,10 @@ require_once __DIR__.'/facebook-sdk/autoload.php';
 
 /////////////// APP CONFIG ////////////
 
-$page_id ='575140232647743';
-$appId = '116039698811536';
-$appSecret = '59095f05e7b1c1ce2203b4716bf2dfa2';
-$access_token="EAABpiZAkHCpABAPrPAlbYrIl6brnIZC1hi44Rvd7BXWIG2cqRo46uJehSZAEPysJlhG6hjv7ZC7XHXFH0JjFcBtIwirebSYITPRWySHzwKbqoukch1fPzZAqhPN7ZA4RWSjeCQd15IZAiWZC3BZBQaSEt"; // The access token you receieved above
+$page_id =" "; // your page id
+$appId = " "; // your app id
+$appSecret = ""; /// app secret
+$access_token=""; // The access token you receieved 
 
 /////////////// END APP CONFIG ////////////
 
