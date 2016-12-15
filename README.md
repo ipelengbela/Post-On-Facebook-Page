@@ -1,2 +1,2 @@
 # Post-On-Facebook-Page
-This is PHP code for post on facebook page using facebook-sdk
+Simple PHP code for posting a content on facebook page using facebook-sdk
